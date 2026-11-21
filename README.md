@@ -3,6 +3,8 @@
 크리스마스이브에 산타의 위치를 보여주는 ESP32-C3 키링입니다.
 An ESP32-C3 keyring that tracks Santa on Christmas Eve.
 
+<img width="800" height="600" alt="Santatracker_Instagram_Thumnail3" src="https://github.com/user-attachments/assets/a0e63606-8925-4741-90ba-5622d24e908c" />
+
 - 📘 제작 가이드 / Build guide: [한국어](docs/SantaTracker_Guide_Kor.pdf) · [English](docs/SantaTracker_Guide_Eng.pdf)
 - 🖨️ 케이스 / Case: MakerWorld (link coming soon)
 
