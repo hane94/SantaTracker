@@ -16,6 +16,9 @@ An ESP32-C3 keychain that tracks Santa on Christmas Eve.
 - [M2×10 screws ×4](https://link.coupang.com/a/iQ55wgyWBw) (같은 규격이면 무엇이든 / any M2×10)
 - [26 AWG wire ×3](https://link.coupang.com/a/iQ58ddroTA) (얇은 전선이면 무엇이든 / any thin wire)
 
+- https://makerworld.com/en/models/3655350-santa-tracker-esp32-c3-keychain#profileId-4194556(케이스/Case)
+  
+
 ## License
 
 - Code: **GPLv3** (see [LICENSE](LICENSE))
